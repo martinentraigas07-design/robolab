@@ -21,20 +21,34 @@ Forma parte del **Ecosistema FRANKY**, un conjunto de herramientas diseñadas pa
 
 ---
 
-# Requisitos del sistema
+## Requisitos del sistema
 
-* Windows 10 o superior
+### Sistema operativo
+
+* Windows 10 o superior (64 bits)
+
+### Software necesario
+
+* Python 3.11 o superior (recomendado)
+* Navegador web actualizado (Chrome, Edge o Firefox)
+
+### Hardware recomendado
+
+* Procesador Intel Core i3 o superior
 * 4 GB de memoria RAM (mínimo)
-* Resolución 1366x768 o superior
+* Resolución de pantalla 1366 × 768 o superior
+
 
 ---
 
-# Instalación
+## Instalación
 
-1. Descargar la última versión desde la sección **Releases**.
-2. Descomprimir el archivo.
-3. Ejecutar RoboLab.
-4. Seguir la guía de primeros pasos.
+1. Instalar **Python 3.11** o una versión superior.
+2. Descargar la última versión de RoboLab desde la sección **Releases**.
+3. Descomprimir el archivo en una carpeta de trabajo.
+4. Ejecutar el archivo de inicio de RoboLab siguiendo las instrucciones incluidas.
+5. Si es la primera ejecución, instalar las dependencias que el sistema solicite.
+
 
 ---
 
